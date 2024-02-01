@@ -1,0 +1,17 @@
+.app-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.data-container {
+  margin-top: 20px;
+}
+
+.error-message {
+  color: red;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
